@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /control/
+Disallow: /config/
+Disallow: /logs/
+Disallow: /api/
+
+Sitemap: https://www.elmashfa.com/sitemap.xml
+Sitemap: https://www.elmashfa.com/sitemap-blog.php
